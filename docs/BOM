@@ -1,0 +1,63 @@
+Partlist
+
+Exported from mux_board_final.brd at 08/07/2014 17:36:42
+
+EAGLE Version 6.6.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package       Library         Position (inch)       Orientation
+
+C1       10uF           C025-025X050  rcl             (0.925 1.525)         R180
+C2       0.1uF          C025-025X050  rcl             (1.925 1.675)         R0
+D1       SA5.0A 5v      DO41-10       diode           (2.4 1.35)            R270
+D2       SA5.0A 5v      DO41-10       diode           (2.55 1.35)           R270
+D3       SA5.0A 5v      DO41-10       diode           (0.35 1.525)          R180
+J1       282834-2       CONN_282834-2 screw-terminals (0.5 0.15)            R180
+J2       282834-2       CONN_282834-2 screw-terminals (0.9 0.15)            R180
+J3       282834-2       CONN_282834-2 screw-terminals (1.3 0.15)            R180
+J4       282834-2       CONN_282834-2 screw-terminals (1.7 0.15)            R180
+J5       282834-2       CONN_282834-2 screw-terminals (2.1 0.15)            R180
+J6       282834-2       CONN_282834-2 screw-terminals (2.5 0.15)            R180
+J7       282834-2       CONN_282834-2 screw-terminals (0.95 1.8)            R0
+J8       282834-2       CONN_282834-2 screw-terminals (2.3 1.8)             R0
+JP0                     JP2           jumper          (0.55 1.8)            R0
+JP1                     JP2           jumper          (1.25 1.8)            R0
+JP2                     JP2           jumper          (2.55 1.8)            R0
+JP3                     JP1           jumper          (1.15 1.65)           R270
+LED1                    LED3MM        led             (1.55 1.775)          R270
+R1       4k7            0204/7        rcl             (0.15 1.25)           R90
+R2       4k7            0204/7        rcl             (0.35 1.25)           R90
+R3       4k7            0204/7        rcl             (0.25 1.25)           R270
+R4       4k7            0204/7        rcl             (0.55 1.25)           R90
+R5       4k7            0204/7        rcl             (0.45 1.25)           R270
+R6       4k7            0204/7        rcl             (0.65 1.25)           R270
+R7       4k7            0204/7        rcl             (2.15 1.4)            R270
+R8       4k7            0204/7        rcl             (2.25 1.4)            R90
+R9       4k7            0204/7        rcl             (2.7 1.35)            R90
+R10      4k7            0204/7        rcl             (2.9 1.35)            R90
+R11      4k7            0204/7        rcl             (2.8 1.35)            R270
+R12      4k7            0204/7        rcl             (3 1.35)              R270
+R13      470            0204/7        rcl             (0.55 0.45)           R0
+R14      470            0204/7        rcl             (0.55 0.35)           R180
+R15      470            0204/7        rcl             (0.95 0.45)           R0
+R16      470            0204/7        rcl             (0.95 0.35)           R180
+R17      470            0204/7        rcl             (1.35 0.45)           R0
+R18      470            0204/7        rcl             (1.35 0.35)           R180
+R19      470            0204/7        rcl             (1.75 0.45)           R0
+R20      470            0204/7        rcl             (1.75 0.35)           R180
+R21      470            0204/7        rcl             (2.15 0.45)           R0
+R22      470            0204/7        rcl             (2.15 0.35)           R180
+R23      470            0204/7        rcl             (2.55 0.45)           R0
+R24      470            0204/7        rcl             (2.55 0.35)           R180
+R25      10k            0204/7        rcl             (1.1 1.35)            R90
+R26      1k             0204/7        rcl             (1.95 1.4)            R90
+R27      1k             0204/7        rcl             (2.05 1.4)            R270
+R28      330            0204/7        rcl             (1.9 1.8)             R0
+U1       P82B715PN      SOT97-1       testlib         (0.1 0.95)            R180
+U2       P82B715PN      SOT97-1       testlib         (0.6 0.95)            R180
+U3       P82B715PN      SOT97-1       testlib         (1.1 0.95)            R180
+U4       P82B715PN      SOT97-1       testlib         (1.7 0.95)            R180
+U5       P82B715PN      SOT97-1       testlib         (2.2 0.95)            R180
+U6       P82B715PN      SOT97-1       testlib         (2.7 0.95)            R180
+U7       PCA9547D       SOT137-1      testlib         (1.55 1.35)           R0
